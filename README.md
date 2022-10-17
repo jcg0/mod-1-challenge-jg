@@ -21,3 +21,7 @@ In this challenge I need to refactor the html and css files so that they can be 
 - THEN they fall in sequential order
 - WHEN I view the title element
 - THEN I find a concise, descriptive title
+
+## Image
+
+![plot](./assets/images/Screen%20Shot%202022-10-17%20at%207.48.31%20PM.png)
